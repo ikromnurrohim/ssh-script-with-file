@@ -1,7 +1,7 @@
 # 🦀 SSH to server within Identify file
 ![](https://img.shields.io/badge/Platforms-Linux%20/%20macOS%20-blue.svg)
 ![](https://img.shields.io/badge/Tools-SSH-orange.svg)
-### Requirement
+## Requirement
 Format identify file must be 
 >idrsa_ip_username 
 
@@ -10,7 +10,7 @@ Format identify file must be
 idrsa_192.168.1.1_admin
 ```
 
-### Running Script
+## Running Script
 ```bash
 ./ssh-script.sh idrsa_192.168.1.1_admin
 or 
