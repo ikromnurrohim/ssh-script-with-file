@@ -6,10 +6,10 @@ Format filename must be idrsa_ip_username
 
 ### Example 
 ```bash
-idrsa_192.168.61.155_admin
+idrsa_192.168.1.1_admin
 ```
 
 ### Running Script
 ```bash
-./ssh-script idrsa_192.168.61.155_admin
+./ssh-script idrsa_192.168.1.1_admin
 ```
