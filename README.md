@@ -1,6 +1,6 @@
 # SSH to server within identify file
 ![](https://img.shields.io/badge/Platforms-Linux%20/%20macOS%20-blue.svg)
-![](https://img.shields.io/badge/SSH-orange.svg)
+![](https://img.shields.io/badge/Tools-SSH-orange.svg)
 ### Requirement
 Format identify file must be 
 >idrsa_ip_username 
