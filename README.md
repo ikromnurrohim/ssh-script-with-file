@@ -1,4 +1,4 @@
-# This file use for ssh to server within key file
+# SSH to server within identify file
 ![](https://img.shields.io/badge/Platforms-Linux%20/%20macOS%20-blue.svg)
 ![](https://img.shields.io/badge/SSH-orange.svg)
 ### Requirement
