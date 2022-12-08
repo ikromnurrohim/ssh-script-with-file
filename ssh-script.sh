@@ -2,7 +2,7 @@
 
 if [ "$1" == "" ]; then
 	echo "Usage: ./ssh-script.sh [path file key]"
-	echo "Example: ./ssh-script.sh idrsa_192.168.61.155_admin or ./ssh-script.sh /home/admin/idrsa_192.168.61.155_admin"
+	echo "Example: ./ssh-script.sh idrsa_192.168.1.1_admin or ./ssh-script.sh /home/admin/idrsa_192.168.1.1_admin"
 else
 	counter=0
         #looping each string that have _ (underscore)
