@@ -1,5 +1,4 @@
-# ssh-script-with-file
-## This file use for ssh to server within key file
+# This file use for ssh to server within key file
 
 ### Requirement
 Format filename must be idrsa_ip_username 
