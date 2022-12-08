@@ -11,7 +11,7 @@ idrsa_192.168.1.1_admin
 
 ### Running Script
 ```bash
-./ssh-script idrsa_192.168.1.1_admin
+./ssh-script.sh idrsa_192.168.1.1_admin
 or 
-bash ssh-script idrsa_192.168.1.1_admin
+bash ssh-script.sh idrsa_192.168.1.1_admin
 ```
